@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    color: #FFF;
+}
+
+
+main{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.teste{
+    width: 600px;
+    height: 100px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teste_2{
+     width: 25em;
+     height: 100px;
+     
+     background-color: blue;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
